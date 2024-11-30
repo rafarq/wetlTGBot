@@ -11,7 +11,8 @@ Este bot permite manejar enlaces de WeTransfer y enviar los archivos descargados
 
 ### Paso 1: Instalar las Dependencias de Python
 Usa `pip` para instalar las bibliotecas necesarias desde el archivo `requirements.txt`:
-```bash
+
+``bash
 pip install -r requirements.txt
 
 ### Paso 2: clonar la biblioteca de Trasnferwee:
