@@ -19,7 +19,17 @@ pip install -r requirements.txt
 
 ### Paso 2: clonar la biblioteca de Trasnferwee:
 
+Crea una carpeta `/tmp` y dentro ejecuta el siguiente comando para clonar TrasnferWee
+
+```bash
 git clone https://github.com/iamleot/transferwee.git
+```
+
+Asegurate de tener los requerimientos de transferwee que son "requests" con el comando
+
+```bash
+pip install -r requests
+```
 
 
 ## Uso
